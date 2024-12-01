@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "Joan",
+        "edat": 30,
+        "salari": 2500
+    },
+    {
+        "nom": "Maria",
+        "edat": 25,
+        "salari": 3000
+    },
+    {
+        "nom": "Pere",
+        "edat": 35,
+        "salari": 3500
+    }
+]
